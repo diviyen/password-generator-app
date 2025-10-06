@@ -9,4 +9,6 @@ if __name__ == "__main__":
     length = int(input("Enter password length: "))
     print("Generated password:", generate_password(length))
     
-    # password generator app
+# password generator app
+
+# one more comment line
